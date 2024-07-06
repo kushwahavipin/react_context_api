@@ -140,8 +140,8 @@ function Header() {
         <li>
           <Link to="/">Home</Link>
         </li>
-        <li>Categories</li>
-        <li>About Us</li>
+        <li><Link to="#">About Us</Link></li>
+        <li><Link to="#">Contact Us</Link></li>
       </ul>
     </header>
   );
